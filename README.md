@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # PDF Chatbot
 
 ## Overview
@@ -203,4 +202,3 @@ Contributions are welcome! Please follow these steps to contribute:
 =======
 # PDF-Chatbot
 Pdf interactor chatbot web-app made using python- FastAPI, genAI- Gemini LLM API , streamlit using RAG
->>>>>>> 1a1251452cd1551616dfdd9ec83e93258bb75122
