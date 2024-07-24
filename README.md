@@ -10,28 +10,28 @@ The **PDF Chatbot** project is a web application that allows users to upload a P
 The project is divided into two main components: **Backend** and **Frontend**. The structure is as follows:
 
 
-pdf_chatbot/
-├── backend/
-│ ├── main.py # FastAPI backend application
-│ ├── gemini_client.py # Gemini API client integration
-│ ├── .env # Environment variables
-│
-├── frontend/
-│ ├── app.py # Streamlit frontend application
-│
-├── tests/
-│ ├── backend/
-│ │ └── test_main.py # Unit tests for FastAPI endpoints
-│ ├── frontend/
-│ │ └── test_app.py # Unit tests for Streamlit application
-│
-├── screenshots/
-│ ├── fastapi_swagger_ui.png # Swagger UI screenshot (FastAPI)
-│ ├── streamlit_app.png # Streamlit app screenshot (Frontend)
-│
-├── requirements.txt # Project dependencies
-├── venv/ # Python virtual environment
-└── README.md # Project documentation
+pdf_chatbot/ \
+├── backend/ \
+│ ├── main.py # FastAPI backend application \
+│ ├── gemini_client.py # Gemini API client integration \
+│ ├── .env # Environment variables \
+│ \
+├── frontend/ \
+│ ├── app.py # Streamlit frontend application \
+│ \
+├── tests/ \
+│ ├── backend/ \
+│ │ └── test_main.py # Unit tests for FastAPI endpoints \
+│ ├── frontend/ \
+│ │ └── test_app.py # Unit tests for Streamlit application \
+│ \
+├── screenshots/ \
+│ ├── fastapi_swagger_ui.png # Swagger UI screenshot (FastAPI) \
+│ ├── streamlit_app.png # Streamlit app screenshot (Frontend) \
+│ \
+├── requirements.txt # Project dependencies \
+├── venv/ # Python virtual environment \
+└── README.md # Project documentation \
 
 
 ## Installation
