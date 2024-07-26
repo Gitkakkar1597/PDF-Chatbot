@@ -9,7 +9,7 @@ The **PDF Chatbot** project is a web application that allows users to upload a P
 
 The project is divided into two main components: **Backend** and **Frontend**. The structure is as follows:
 
-
+```arduino
 pdf_chatbot/ \
 ├── backend/ \
 │ ├── main.py # FastAPI backend application \
@@ -32,7 +32,7 @@ pdf_chatbot/ \
 ├── requirements.txt # Project dependencies \
 ├── venv/ # Python virtual environment \
 └── README.md # Project documentation \
-
+```
 
 ## Installation
 
