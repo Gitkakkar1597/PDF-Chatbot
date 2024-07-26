@@ -199,6 +199,3 @@ Contributions are welcome! Please follow these steps to contribute:
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
-=======
-# PDF-Chatbot
-Pdf interactor chatbot web-app made using python- FastAPI, genAI- Gemini LLM API , streamlit using RAG
